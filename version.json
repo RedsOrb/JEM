@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "versionCode": 10001,
+  "releaseDate": "2024-03-20",
+  "changelog": ["New UI for updates", "Improved interpreter speed"],
+  "apkUrl": "https://github.com/Ansh-Rathod/JEM/releases/download/v1.1.0/jem.apk",
+  "sha256": "your_apk_checksum_here"
+}
