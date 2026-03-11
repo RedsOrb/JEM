@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="icon.png" alt="JEM Logo" width="120" style="border-radius: 20px;" />
-
-<img src="https://img.shields.io/badge/JEM-Java%20Execution%20Module-1B5E20?style=for-the-badge&logo=android&logoColor=white" alt="JEM"/>
+<img src="icon.png" alt="JEM Logo" width="110" />
 
 # ☕ JEM — Java Execution Module
 
