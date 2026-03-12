@@ -6,11 +6,8 @@
 
 ### An offline-first educational Java simulator for Android
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
-[![Android](https://img.shields.io/badge/Android-5.0+-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)](https://github.com/RedsOrb/JEM/releases)
+[![Version](https://img.shields.io/badge/Version-26.0-blue?style=flat-square)](https://github.com/RedsOrb/JEM/releases)
 
 > Write, compile, and run Java programs directly on your Android phone — completely offline, no JDK required.
 
@@ -43,62 +40,15 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Download the latest version of JEM for your Android device directly from our Custom Website or GitHub Releases!
 
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) `>=3.10.0`
-- Android Studio or VS Code with Flutter plugin
-- Android device or emulator (API 21+)
+[Download JEM Website](https://github.com/RedsOrb/JEM)
 
-### Clone & Run
+Or download directly from latest release:
 
-```bash
-# Clone the repository
-git clone https://github.com/RedsOrb/JEM.git
-cd JEM
-
-# Install dependencies
-flutter pub get
-
-# Run on connected device
-flutter run
-```
-
-### Build APK
-
-```bash
-flutter build apk --release
-```
-
----
-
-## 🏗️ Tech Stack
-
-| Layer | Technology |
-|---------|-----------|
-| **UI Framework** | Flutter (Material 3) |
-| **Language** | Dart |
-| **State Management** | Provider |
-| **Backend & Auth** | Supabase |
-| **Local Storage** | SharedPreferences + SAF |
-| **Networking** | http package |
-| **Notifications** | flutter_local_notifications |
-| **Theme** | Custom ThemeController with dynamic dark/light mode |
-
----
-
-## 📦 Project Structure
-
-```
-lib/
-├── app/                  # Core services (auth, theme, settings, updates)
-├── models/               # Data models (User, Program, VersionInfo…)
-├── screens/              # All UI screens
-│   ├── home/             # Home screen with search & program list
-│   ├── editor/           # Java code editor
-│   ├── online/           # Community feed & program detail
-│   └── settings/         # Settings & appearance
-└── widgets/              # Reusable widgets (LiquidBackground, etc.)
-```
+[![Download arm64-v8a](https://img.shields.io/badge/Download-arm64--v8a-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RedsOrb/JEM/releases/latest/download/app-arm64-v8a-release.apk)
+[![Download armeabi-v7a](https://img.shields.io/badge/Download-armeabi--v7a-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RedsOrb/JEM/releases/latest/download/app-armeabi-v7a-release.apk)
+[![Download x86_64](https://img.shields.io/badge/Download-x86__64-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RedsOrb/JEM/releases/latest/download/app-x86_64-release.apk)
 
 ---
 
@@ -118,7 +68,7 @@ The downloaded APK is cached and **auto-deleted after 12 hours**.
 
 ## 📋 Changelog
 
-### v1.0.0 — Initial Release
+### v26.0 — Initial Release
 - ✅ Offline Java interpreter for mobile
 - ✅ Syntax-highlighted code editor
 - ✅ Dark & Light theme with animated toggle
@@ -130,15 +80,9 @@ The downloaded APK is cached and **auto-deleted after 12 hours**.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Community
 
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
+Found a bug or have an idea for a feature? Head over to the [Issues](https://github.com/RedsOrb/JEM/issues) page to report it!
 
 ---
 
