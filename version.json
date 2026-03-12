@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "versionCode": 10001,
   "releaseDate": "2024-03-20",
   "changelog": ["New UI for updates", "Improved interpreter speed"],
