@@ -4,7 +4,7 @@
   "versionCode": 10001,
   "releaseDate": "2024-03-20",
   "changelog": ["New UI for updates", "Improved interpreter speed"],
-  "apkUrl": "https://github.com/RedsOrb/JEM/releases/download/v1.1.0/jem.apk",
+  "apkUrl": "https://github.com/RedsOrb/JEM/blob/main/app-armeabi-v7a-release.apk",
   "apkUrl_v8a": "https://github.com/RedsOrb/JEM/releases/download/v1.1.0/jem-arm64-v8a.apk",
   "apkUrl_v7a": "https://github.com/RedsOrb/JEM/releases/download/v1.1.0/jem-armeabi-v7a.apk",
   "sha256": "your_apk_checksum_here"
