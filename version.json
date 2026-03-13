@@ -1,6 +1,6 @@
 {
   "version": "26.0",
-  "versionCode": 10001,
+  "versionCode": 10002,
   "releaseDate": "2024-03-20",
   "apkUrl": "https://github.com/RedsOrb/JEM/releases/download/release/JRM-v7a-26.0.apk",
   "changelog": ["New UI", "Added smooth animation"],
