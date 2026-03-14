@@ -1,6 +1,6 @@
 {
-  "version": "26.3",
-  "versionCode": 10003,
+  "version": "26.0",
+  "versionCode": 10001,
   "releaseDate": "2024-03-20",
   "changelog": ["New UI", "Added smooth animation"],
   "apkUrl_v8a": "https://github.com/RedsOrb/JEM/releases/download/release/JEM-v8a-26.0.apk",
