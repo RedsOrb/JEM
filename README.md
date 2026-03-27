@@ -46,8 +46,8 @@
 
 Download the latest release of JEM for your Android device directly from GitHub Releases!
 
-[![Download arm64-v8a](https://img.shields.io/badge/Download-arm64--v8a-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RedsOrb/JEM/releases/latest/download/app-arm64-v8a-release.apk)
-[![Download armeabi-v7a](https://img.shields.io/badge/Download-armeabi--v7a-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RedsOrb/JEM/releases/latest/download/app-armeabi-v7a-release.apk)
+[![Download arm64-v8a](https://img.shields.io/badge/Download-arm64--v8a-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RedsOrb/JEM/releases/download/JEM_26.1/JEM-v8a-26.1.apk)
+[![Download armeabi-v7a](https://img.shields.io/badge/Download-armeabi--v7a-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RedsOrb/JEM/releases/download/JEM_26.1/JEM-v7a-26.1.apk)
 
 ---
 
